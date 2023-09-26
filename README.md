@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  <img src="  https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
