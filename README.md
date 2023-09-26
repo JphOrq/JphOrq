@@ -1,7 +1,7 @@
 <h2 align="left">I'm Joseph a Junior Programmer / Entry-Level Developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JphOrq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JphOrq&locale=en&hide_title=false&layout=dark&card_width=320&langs_count=6&theme=cobalt&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 <div align="left">
