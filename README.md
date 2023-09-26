@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="50" alt="microsoftsqlserver logo"  />
+  <img src="file:///C:/Users/josep/AppData/Local/Temp/Rar$DIa15676.11665/icons8-microsoft-sql-server-1000.svg" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="50" alt="github logo"  />
   <img width="12" />
