@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" height="40" width="20" alt="aspnet logo"  />
+  <img src="https://camo.githubusercontent.com/a21b5c78f8bc8eede02362df6bcb95ee0632798237f338eab130ae263ff68f0a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" alt="aspnet logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
