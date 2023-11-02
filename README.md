@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql logo" height="40" alt="sql-database logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="50" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="50" alt="codeigniter logo"  />
   <img width="12" />
