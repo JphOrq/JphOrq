@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50" alt="sql logo" height="40" alt="sql-database logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://www.flaticon.com/free-icons/php" title="php icons" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="50" alt="github logo" height="40" alt="github logo"/>
   <img width="12" />
