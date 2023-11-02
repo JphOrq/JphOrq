@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="50" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://www.flaticon.com/free-icons/wordpress" height="50" alt="wordpress logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github logo" height="40" alt="github logo"/>
