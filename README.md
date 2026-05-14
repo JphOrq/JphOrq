@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql logo" height="40" alt="sql-database logo"/>
   <img width="12" />
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="50" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="40" alt="wordpress logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
   <img width="12" />
