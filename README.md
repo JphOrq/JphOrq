@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/microsoftsqlserver" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql logo" height="40" alt="sql-database logo"/>
   <img width="12" />
