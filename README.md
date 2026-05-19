@@ -1,4 +1,4 @@
-<h2 align="left">I'm Joseph, a Computer Programmer and Full Stack Developer</h2>
+<h2 align="left">I'm Joseph, a Computer Programmer and Mid-Level Developer</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
